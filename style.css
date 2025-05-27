@@ -113,3 +113,41 @@ nav button {
   background-color: rgb(230, 4, 3, 1);
   color: white;
 }
+
+.first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 70vw;
+    margin: auto;
+    color: white;
+}
+.secImg{
+    position: relative;
+
+}
+.secImg video{
+    position: absolute;
+    top: 51px;
+    right: 0;
+
+}
+.secImg img{
+    width: 30vw;
+    position: relative;
+    z-index: 10;
+    
+}
+section.first >div{
+    display: flex;
+    flex-direction: column;
+    
+}
+section.first > div :nth-child(1){
+    font-size: 38px;
+    font-weight: 900;
+}
+section.first > div :nth-child(2){
+    font-size: 24px;
+    font-weight: 400;
+}
