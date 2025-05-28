@@ -19,9 +19,7 @@ This is a **responsive Netflix India landing page clone**, built using **HTML** 
 - ✅ FAQ accordion structure (basic layout)
 - ✅ Styled footer with useful links
 
-## 📸 Screenshots
 
-![Netflix Clone Screenshot](./screenshots/netflix-clone.png)
 
 ## 📁 Project Structure
 
