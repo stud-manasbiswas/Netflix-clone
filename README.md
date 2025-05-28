@@ -20,13 +20,11 @@ This is a **responsive Netflix India landing page clone**, built using **HTML** 
 - ✅ Styled footer with useful links
 
 
-
 ## 📁 Project Structure
 
 netflix-clone/
-│
 ├── assets/
-│ └── logo.svg
+│   └── logo.svg
 ├── style.css
 ├── index.html
 └── README.md
@@ -43,6 +41,6 @@ To run this project locally:
 
 1. Clone this repo  
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/stud-manasbiswas/Netflix-clone.git
 
 2. Open index.html in your browser.
